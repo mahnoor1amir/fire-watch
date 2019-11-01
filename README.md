@@ -1,2 +1,2 @@
 # african-violets
-hack RPI african violets team project
+Hack RPI African Violets team project
